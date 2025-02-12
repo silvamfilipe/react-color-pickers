@@ -1,5 +1,5 @@
 {
-  "name": "react-color-pickers",
+  "name": "react-color-pickers-collection",
   "version": "1.0.0",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more. A react-color clone.",
   "main": "lib/index.js",
